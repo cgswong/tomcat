@@ -1,0 +1,22 @@
+######################################################
+# NAME: tomcatlog.lr
+#
+# DESC: logrotate configuration file for Apache Tomcat files.
+#
+# LOG:
+# yyyy/mm/dd [user] - [notes]
+# 2014/03/10 cgwong - [v1.0.0] Creation from notes.
+######################################################
+
+# Global options
+
+# WebTier (OHS) logs
+/www/web/product/tomcat/catalina.out
+{
+  copytruncate
+  compress
+  weekly
+  rotate 5
+  missingok
+  size 10M
+}
