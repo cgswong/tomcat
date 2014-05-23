@@ -4,6 +4,11 @@
 # processname: tomcat
 # chkconfig: 234 20 80
 #
+# $HeadURL$
+# $LastChangedBy$
+# $LastChangedDate$
+# $LastChangedRevision$
+#
 # LOG:
 # yyyy/mm/dd [login] [notes]
 # 2014/04/23 cgwong v1.0.0 Initial creation from original.

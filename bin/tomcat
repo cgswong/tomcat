@@ -3,7 +3,12 @@
 # description: Apache Tomcat start/stop/restart service
 # processname: tomcat
 # chkconfig: 234 20 80
-
+#
+# $HeadURL$
+# $LastChangedBy$
+# $LastChangedDate$
+# $LastChangedRevision$
+#
 # LOG:
 # yyyy/mm/dd [login] [notes]
 # 2014/02/28 cgwong v1.0.0 Initial creation

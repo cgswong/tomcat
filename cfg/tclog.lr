@@ -1,7 +1,12 @@
 ######################################################
-# NAME: tomcatlog.lr
+# NAME: tclog.lr
 #
 # DESC: logrotate configuration file for Apache Tomcat files.
+#
+# $HeadURL$
+# $LastChangedBy$
+# $LastChangedDate$
+# $LastChangedRevision$
 #
 # LOG:
 # yyyy/mm/dd [user] - [notes]
